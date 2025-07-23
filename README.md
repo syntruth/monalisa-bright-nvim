@@ -34,5 +34,5 @@ vim.cmd.colorscheme("monalisa-bright")
 ## Build or Modify
 
 1. Ensure [lush.nvim](https://github.com/rktjmp/lush.nvim) and [shipwright.nvim](https://github.com/rktjmp/shipwright.nvim) are installed
-2. Modify [lush_theme/monalisa.lua](lush_theme/monalisa.lua)
+2. Modify [lush_theme/monalisa-bright.lua](lush_theme/monalisa-bright.lua)
 3. Rebuild the colorscheme using `./build.sh`
