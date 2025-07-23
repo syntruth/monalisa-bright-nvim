@@ -1,11 +1,16 @@
-<h1 align="center">MonaLisa Bright</h1>
+<h1 align="center">
+  MonaLisa Bright
+</h1>
 
-<p align="center">A dark and colorful theme for Neovim made a bit brigher.</p>
+<p>
+  A dark and colorful theme for Neovim made a bit brighter.
+</p>
 
 Inspired by the painting and the iterm2 theme.
 
 > [!NOTE]
-> This theme is still a work in progress, and colors may change in the near future.
+> This theme is still a work in progress, and colors may change in the near
+> future.
 
 Built with [lush](https://github.com/rktjmp/lush.nvim).
 
